@@ -5,6 +5,6 @@ Blog-like pages on technology.
 
 [Browsers vs. Apps](./blog/browsers-vs-apps.md)
 
-[Pi-Hole vs. Safer Browsing](./pi-hole-vs-safer-browsing.md)
+[Pi-Hole vs. Safer Browsing](./blog/pi-hole-vs-safer-browsing.md)
 
-[The RCA Console Radio Problem, or How Arbitrary Change Breaks People](./the-rca-console-radio-problem.md)
+[The RCA Console Radio Problem, or How Arbitrary Change Breaks People](./blog/the-rca-console-radio-problem.md)
