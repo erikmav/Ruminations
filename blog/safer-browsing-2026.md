@@ -296,7 +296,7 @@ specific categories, others I keep in specific categories.
 ```
 
 Copy the example to your own file, then feel free to modify to add your own links and new or different
-section names. You can use any text editor, from Notepad on Windows to the TExt Editor on Linux,
+section names. You can use any text editor, from Notepad on Windows to the Text Editor on Linux,
 or Visual Studio Code etc.
 
 When you save the file, refresh it in your browser to see and use your new links.
