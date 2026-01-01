@@ -6,6 +6,9 @@ also recommendations on this or that browser. This is my recommended browsing co
 approach to try to preserve some semblance of privacy. No guarantees here, just what I do or
 have recommended others to do.
 
+Also see [Browsers vs. Apps](./browsers-vs-apps.md) since using phone and tablet/iPad apps
+have their own problems that can be solved by using browsers consistently.
+
 ## Operating Systems
 
 No commerical operating system vendor is trustworthy, as they are subject to governments and
