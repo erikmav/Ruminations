@@ -102,7 +102,7 @@ A browser vendor could easily integrate code that sends what sites you connect t
 desired browsing information to a cloud to add to your profile. You have to trust that they are
 not doing this.
 
-My winner for several years is Brave. I hope - but cannot prove - that Brave's developers
+My winner for several years is [Brave](https://brave.com/). I hope - but cannot prove - that Brave's developers
 and company don't slide in a bunch of spyware underneath, or that they don't take in
 compromised browser internals through changes to the upstream Chromium codebase they rely on.
 Using Chromium at least gives it use of a bunch of useful privacy extensions (see below).
