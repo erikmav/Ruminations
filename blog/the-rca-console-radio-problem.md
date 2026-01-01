@@ -95,7 +95,7 @@ emergency have to stop and look around for where the Fire Torpedo button was tha
 in the bottom right of the Tactical console, but Bridge Dweeb #117 changed it for no
 real reason than because he could.
 
-I don't know how to change this. New web frameworks seem to appear every year, every UX dev
+I don't know how to fix this. New web frameworks seem to appear every year, every UX dev
 is trained on a subset of frameworks, so you almost have to upgrade the whole site to a completely
 new system each time more than trivial changes are needed, and the new designers don't understand
 the important behaviors and layouts in the old system, they just proceed as though a wholly new
