@@ -42,7 +42,7 @@ me a strong sense of results there.
 * Produces some odd web page rendering results including error messages about broken network domains.
   [Safer Browsing](./safer-browsing-2026.md) approaches produce fewer such oddities as the blocking
   is done from within the browser. When I was using it this would appear as black boxes instead of
-  ads, or empty spaces with error messages like `Unable to contact foo.com`.
+  ads, or empty spaces with error messages like `Unable to contact ads.net`.
 * Doesn't block some types of ads that in-browser plugins can block, such as those sent from the
   web site itself.
 * May not block Facebook and other trackers that are used to track your browsing across the internet,
