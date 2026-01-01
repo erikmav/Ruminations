@@ -96,7 +96,7 @@ from infecting the rest of your primary OS.
 
 ## Browser Choices
 
-No browser or operating system vendor is truly trustworthy. You are stuck playing within the limited
+No browser vendor is truly trustworthy. You are stuck playing within the limited
 set of browser choices, and having to make choices within those browsers' plugin and extension ecosystems.
 A browser vendor could easily integrate code that sends what sites you connect to and any other
 desired browsing information to a cloud to add to your profile. You have to trust that they are
