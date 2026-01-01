@@ -33,6 +33,6 @@ various bugs and malfeasance that collect even more information on you to be sol
 And in my experience, you save a lot of battery life having fewer apps with their notification
 services eating your battery life all day long.
 
-At the very least, if you have to install an app as for a new airline, try to delete the app after
+At the very least, if you have to install an app for a new airline, try to delete the app after
 your trip.
 
