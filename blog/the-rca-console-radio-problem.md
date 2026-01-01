@@ -78,6 +78,13 @@ The new OS update that arbitrarily shuffles default icons and features around to
 
 And wasting more time and adding cognitive load, unnecessarily.
 
+Heck, there was even some old Star Trek: The Next Generation episode that added to the problem
+in its own small way, some tech on the bridge was using idle moments to "optimize button layouts"
+for "efficiency" but what it really was doing was making someone in the midst of a battle or
+emergency have to stop and look around for where the Fire Torpedo button was that used to be
+in the bottom right of the Tactical console, but Bridge Dweeb #117 changed it for no
+real reason than because he could.
+
 I don't know how to change this. New web frameworks seem to appear every year, every UX dev
 is trained on a subset of frameworks, so you almost have to upgrade the whole site to a completely
 new system each time more than trivial changes are needed, and the new designers don't understand
@@ -100,3 +107,5 @@ It might not give you that satisfaction of changing everything to your New Way, 
 make the upgrade less sexy and splashy to sell to management, but have a heart for your users...
 
 Young and old.
+
+And no, that icon doesn't need a change to Cornflower Blue. Just leave it alone.
