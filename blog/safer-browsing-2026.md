@@ -287,6 +287,7 @@ specific categories, others I keep in specific categories.
         <h2>Weeklies</h2>
         <ul>
             <li><a href="https://linux.org" target="_blank">Linux</a></li>
+            <li><a href="https://brave.com" target="_blank">Brave</a></li>
         </ul>
     </p>
     <p>
