@@ -33,7 +33,7 @@ See the size of each Patch Tuesday.
 
 That said, changing to other alternatives is expensive in your local fiat currency (Mac/iPad),
 time spent troubleshooting and working around odd configuration problems (Linux), or time for
-retraining (all other OSes). Especially difficult for large organizations to do, nontechnical
+retraining (all other OSes). Especially difficult for large organizations to do, non-technical
 people who have grown used to Windows, or people who don't handle jarring change easily.
 
 ### Mac
