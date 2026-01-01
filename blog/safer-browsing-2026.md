@@ -133,7 +133,7 @@ Chromium browsers (Chrome, Edge) and probably for Safari, Firefox, and Opera.
 | Brave browser's built-in Shields | This replaces some extensions I used to have installed. Not a panacea but pretty good first line of defense. Another reason to use Brave. |
 | Privacy Badger | I've used various Electronic Frontier Foundation extensions over the years, and this one remains one of the first I install to avoid Facebook and other trackers from reporting my browing habits to various megacorporations. [Donate to the EFF](https://supporters.eff.org/donate/donate). |
 | uBlock Origin | Faster version of the old uBlock extension, great on phone OSes and batteries. Cuts down ads. |
-| Ghostery | I turn on `Ad-Blocking`, `Anti-Tracking`, `Never-Consent`, and `Search Enginer Redirect Protection` in its settings to get the maximum effect. [Donate to Ghostery](https://www.ghostery.com/become-a-contributor). |
+| Ghostery | I turn on `Ad-Blocking`, `Anti-Tracking`, `Never-Consent`, and `Search Engine Redirect Protection` in its settings to get the maximum effect. [Donate to Ghostery](https://www.ghostery.com/become-a-contributor). |
 
 For each of these extensions I enable `Use in Private` since I use private browsing most of the time.
 
