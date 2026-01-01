@@ -82,7 +82,7 @@ tracking in real-time. Also varying levels of "AI" integration that throw privac
 
 That said, for budget-constrained people who don't need a full desktop, an Android tablet
 can be an OK choice. Like an iPad, adding a Bluetooth keyboard and a stand make things nicer.
-And mant tablets have USB ports to be able to copy data in and out without using a cloud
+And many tablets have USB and MicroSD ports to be able to copy data in and out without using a cloud
 provider that would get access to your data.
 
 ### Other OSes
