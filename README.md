@@ -8,3 +8,5 @@ Blog-like pages on technology.
 [Pi-Hole vs. Safer Browsing](./blog/pi-hole-vs-safer-browsing.md)
 
 [The RCA Console Radio Problem, or How Arbitrary Change Breaks People](./blog/the-rca-console-radio-problem.md)
+
+[Do you really need that desktop?](./blog/do-you-really-need-that-desktop.md)
