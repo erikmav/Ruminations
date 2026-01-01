@@ -185,7 +185,7 @@ I now use two methods to avoid syncing:
 ## Private and Non-Private Browsing
 
 Whenever I reboot my computer or close my browser, I start Brave to get a non-private window, then
-click the manu at top right and click `New private window` to get an additional private window.
+click the menu at top right and click `New private window` to get an additional private window.
 I segregate my browsing by purpose and use:
 
 * The non-private browser window I use for sites where I want it to remember me. Typically this is for
