@@ -49,4 +49,5 @@ me a strong sense of results there.
   since those trackers may come from facebook.com or other allowed network domains. Safe Browsing
   plugins, including Brave's default Shields feature, do this with more ease since they can see the
   web page contents and see and remove links to those trackers.
+* As noted above, may break some apps that are not expecting to fail to contact ad servers.
 
