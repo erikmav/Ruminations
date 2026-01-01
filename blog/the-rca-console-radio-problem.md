@@ -3,26 +3,29 @@
 Think back to historical radio consoles like the RCA wooden furniture model that a family
 might sit around for evening radio shows 80 years ago. There were a few dials and buttons,
 a bare few readouts, otherwise it was wood wrapping warm tubes and speakers. Everyone in
-the family from children to aged soon knew how to turn it on, tune channels, and change
+the family from children to elders soon knew how to turn it on, tune channels, and change
 volume. The dials never moved around, the readouts stayed in place and did not suddenly
 read out some other information or change fonts, and people could operate it in the dark
-if they needed to since their muscle memory could get used to the location of every control.
+if they needed to since their muscle memory could get used to the location and feel
+of every control.
 
 Same goes for any of many such devices people grew up with up until about the 1980s.
 TVs whose channel knobs, volume controls, and even rabbit-ear antennas, familiar from years
-of use and muscle memory. Stoves, car dashboards, even the idea of channels of radio, TV,
-and cable were a long familiar concept, easy to understand as the number of channels went
-from 3 to 300.
+of use and muscle memory. Stoves, record players, tape players, CD players, car dashboards,
+boomboxes. Even the idea of channels of radio, TV, and cable were a long familiar concept,
+easy to understand as the number of channels went from 3 to 300 and the problem became
+avoiding commercials by changing channels.
 
 Enter the PC era. Screens first consisting of character grids into which apps could write
 their character-mode user interfaces. Competitors would clone the look and feel of each
 other's apps, from hotkeys to placement of text fields and controls on the screen, to make
 it easier for one app vendor to steal business from competitors by letting people's
 "muscle" memory of screen positions and hotkey sequences and app behavior apply while moving
-from, say, Lotus 1-2-3 to Excel. In a way, this was a deliberate hacking of the RCA radio
-console pattern back when people were still expecting consistent behavior and placement
-of screen controls from their apps in order to minimize cognitive load and let them
-concentrate on the actual work at hand.
+from, say, Lotus 1-2-3 to Excel. Heck, they even sued each other sometimes when look-and-feel
+was too similar (the lawsuits generally failed, however). In a way, this was a
+deliberate hacking of the RCA radio console pattern back when people were still expecting
+consistent behavior and placement of screen controls from their apps in order to minimize
+cognitive load and let them concentrate on the actual work at hand.
 
 Then came the GUI, and apps changed their layout, first to take advantage of windowing
 systems while placing controls in a similar-but-different configuration on the screen
@@ -75,7 +78,7 @@ The new OS update that arbitrarily shuffles default icons and features around to
 
 And wasting more time and adding cognitive load, unnecessarily.
 
-I don't know how to change this. New web frameworks seem to appear every year, every UX designer
+I don't know how to change this. New web frameworks seem to appear every year, every UX dev
 is trained on a subset of frameworks, so you almost have to upgrade the whole site to a completely
 new system each time more than trivial changes are needed, and the new designers don't understand
 the important behaviors and layouts in the old system, they just proceed as though a wholly new
@@ -86,7 +89,7 @@ real work, real play.
 I've heard a constant drumbeat - the only really constant thing - from various companies that
 we need to "embrace constant change" as it's "good for us." But it's not, not at all.
 
-As for elders trying to use their computers or phone or tablets to pay their bills or
+As for elders trying to use their computers or phones or tablets to pay their bills or
 read messages from their families? The incessant change can break them, make them give up,
 as relearning the equivalents of dials and switches and readouts and behavior every few months
 or couple of years becomes too much to take.
