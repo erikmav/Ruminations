@@ -214,15 +214,16 @@ person, but is tagged to the address of your computer on the internet and other 
 Pretty much every company sells profile/dossier data like this to middlemen to assemble
 profiles that span what you do across the whole internet. It's especially easy to do this when
 the profile data is taggable to an email address or other identity - the dossier on you grows and
-grows, and they get to resell this data to advertisers, governments, attackers, pretty much anyone
-who has enough money to buy your information. You can't directly prevent or opt out of this,
+grows, including links to who you talk and text and chat and message with, and they get to
+resell this data to advertisers, governments, attackers, AI vendors, pretty much anyone who
+has enough money to buy your information. You can't directly prevent or opt out of this,
 it's become part of how the internet works over the last 20+ years.
 
 You may have heard that, "If the app or site you're using is free, *you are the product*." This is
 the main way it's done. Facebook, Google, Microsoft, smaller sites - everyone sells your information
 to fund their server farms and employees and profit. Everything you do is assembled 24 hours a
 day into a dossier tagged to your email, which often is linkable directly to your personal
-information without much effort.
+information without much effort, and to your family and friends beyond that.
 
 I'm a contrarian and like breaking the profiles. Let them track a day or several days of browsing,
 then start over with a new profile after a reboot. It doesn't work every time, since they could
