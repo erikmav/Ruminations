@@ -9,6 +9,8 @@ read out some other information or change fonts, and people could operate it in 
 if they needed to since their muscle memory could get used to the location and feel
 of every control.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/RCA_Model_RC-350-A_%281938%29.jpg">
+
 Same goes for any of many such devices people grew up with up until about the 1980s.
 TVs whose channel knobs, volume controls, and even rabbit-ear antennas, familiar from years
 of use and muscle memory. Stoves, record players, tape players, CD players, car dashboards,
