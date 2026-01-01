@@ -167,7 +167,7 @@ information, and even WiFi network names and passwords to share across other com
 more easily. I used to use this to make life easier, but stopped about 10 years ago when I realized
 how nefarious this can be: You are letting your browser's vendor see a great deal about you and your
 preferences by letting this information be uploaded to their cloud. The login itself, which is tied
-to an email address, then becomes part of the "profile" of that email address, which in the older days
+to an email address, then becomes part of the "profile" of that email address, which in older days
 was better called a dossier. This is very valuable tracking and personal information unless your entire
 browsing life is spent on MSNBC/MSNOW.
 
