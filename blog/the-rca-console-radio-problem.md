@@ -30,7 +30,7 @@ cognitive load and let them concentrate on the actual work at hand.
 Then came the GUI, and apps changed their layout, first to take advantage of windowing
 systems while placing controls in a similar-but-different configuration on the screen
 vs. how it was done in character mode. Those layouts and reimplementation of hotkeys
-and other brhaviors helped ease the transition from text mode to GUI apps. And Windows
+and other behaviors helped ease the transition from text mode to GUI apps. And Windows
 and MacOS took off.
 
 Soon came browsers and the Internet, with page layouts and fonts and hooked hotkeys and button
@@ -50,6 +50,14 @@ locations of things and how things functioned up to several times per day. Muscl
 cognitive load increased. Would people have bought such a thing back in those days? They might
 go to a friend's house and their RCA would act completely differently, so listening to the radio
 there was another re-learning. More time wasted, more cognitive load.
+
+You can still occasionally find places, maybe the auto parts store or the library,
+where there is still a character-mode interface, or what looks like one but embedded
+in a GUI window. The people using those interfaces don't have to think about how to
+enter the details of your special order, they type and hit Tab and Enter as fast as
+you speak the details without looking at it until the end to verify things.
+It's wonderful to see such things, they don't waste their or your time using a mouse
+or glancing down to make sure the text controls have not moved since yesterday.
 
 What's the point, you ask? I keep encountering the RCA console problem while helping older people out
 with their tech problems. I get panicky help requests for how "email is broken" when it was a case
@@ -78,7 +86,7 @@ The new OS update that arbitrarily shuffles default icons and features around to
 
 And wasting more time and adding cognitive load, unnecessarily.
 
-Heck, there was even some old Star Trek: The Next Generation episode that added to the problem
+Heck, there was even some old *Star Trek: The Next Generation* episode that added to the problem
 in its own small way, some tech on the bridge was using idle moments to "optimize button layouts"
 for "efficiency" but what it really was doing was making someone in the midst of a battle or
 emergency have to stop and look around for where the Fire Torpedo button was that used to be
