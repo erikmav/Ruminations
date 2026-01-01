@@ -270,7 +270,7 @@ address bar.
 
 Here's a sample `links.html` with some section headings I use to separate out
 different categories of links. Some links I visit daily or weekly so keep those in
-specific categories, others I keep in specific categories.
+specific categories, others I keep in categories named for the topic.
 
 ```html
 <head>
