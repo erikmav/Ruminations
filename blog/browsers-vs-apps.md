@@ -16,7 +16,7 @@ grant permissions to the camera, GPS/location, and mic.
 There have been many nefarious actions by apps such as noted above. The app stores and phone
 operating system vendors try to add in restrictions, and the apps get updates to try to get around the
 restrictions. Sometimes it's just plain app bugs that cause the problems, instead of explicit
-malfeasance. Either way, I avoid them like the plague, and just use private or non-private
+malfeasance. Either way, I avoid them whenever possible, and just use private or non-private
 browser windows on both my phone and my desktop.
 
 Yes it's pretty easy to let Instagram access your GPS location and personal information to tag your
@@ -31,7 +31,7 @@ various bugs and malfeasance that collect even more information on you to be sol
 (see the previous post).
 
 And in my experience, you save a lot of battery life having fewer apps with their notification
-services eating your battery life all day long.
+services eating your battery power all day long.
 
 At the very least, if you have to install an app for a new airline, try to delete the app after
 your trip.
