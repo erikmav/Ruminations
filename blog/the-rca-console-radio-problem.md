@@ -69,7 +69,7 @@ some other unexpected page.
 
 I got a lot of complaints when, after people got used to the way Windows 95's desktop and apps behaved,
 Windows 98 changed icon shapes and colors and moved things around so that people had to stop and relearn.
-Forget Windows 8's complete change of everything everyone knew, since the Metro tile interface
+Then there was Windows 8's complete change of everything everyone knew, since the Metro tile interface
 was "so easy" and "everyone would understand it intuitively" when instead it caused massive
 support problems for Microsoft and a lesson to the industry. And it wasn't just from older users,
 nearly everyone hated that sudden, needless change, so much so that Windows 10 had to put back
